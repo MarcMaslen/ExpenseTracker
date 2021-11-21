@@ -1,3 +1,5 @@
+# This is my first react project and it was made following a React guide with a few of my own features. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
