@@ -1,4 +1,4 @@
-# This is my first react project and it was made following a React guide with a few of my own features. 
+This is my first react project and it was made following a React guide with a few of my own features. 
 
 # Getting Started with Create React App
 
